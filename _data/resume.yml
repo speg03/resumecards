@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars2.githubusercontent.com/u/45468?v=3&s=150"
+photo: "https://avatars.githubusercontent.com/u/45468?v=3&s=150"
 name: "Takahiro Yano"
 copy: "いわゆるIT系でなんちゃってインフラ屋。インフラ構築の自動化とか、ビルド・デプロイの自動化とか、効率的な開発環境を考えるのが好き。"
 
